@@ -1,6 +1,6 @@
 <html lang=”tr”><head>
 
-    <title>Hacked By Regex</title>
+    <title>Hacked By sstashy</title>
     </head>
     
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
